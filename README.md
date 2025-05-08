@@ -84,6 +84,5 @@ The report will include:
 
 ---
 
-### **🚀 Next Steps?**  
-Want a **step-by-step guide** to extend this framework? **Star the repo & let me know!** ⭐  
+
 
